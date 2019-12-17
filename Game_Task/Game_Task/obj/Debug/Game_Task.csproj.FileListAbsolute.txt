@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\Game_Task\Game_Task\bin\Debug\Game_Task.exe.config
+C:\Users\Alex\source\repos\Game_Task\Game_Task\bin\Debug\Game_Task.exe
+C:\Users\Alex\source\repos\Game_Task\Game_Task\bin\Debug\Game_Task.pdb
+C:\Users\Alex\source\repos\Game_Task\Game_Task\obj\Debug\Game_Task.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Game_Task\Game_Task\obj\Debug\Game_Task.Form1.resources
+C:\Users\Alex\source\repos\Game_Task\Game_Task\obj\Debug\Game_Task.Properties.Resources.resources
+C:\Users\Alex\source\repos\Game_Task\Game_Task\obj\Debug\Game_Task.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Game_Task\Game_Task\obj\Debug\Game_Task.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Game_Task\Game_Task\obj\Debug\Game_Task.exe
+C:\Users\Alex\source\repos\Game_Task\Game_Task\obj\Debug\Game_Task.pdb
