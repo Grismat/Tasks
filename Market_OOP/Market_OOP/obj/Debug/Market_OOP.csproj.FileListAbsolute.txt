@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Market_OOP\Market_OOP\obj\Debug\Market_OOP.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Market_OOP\Market_OOP\obj\Debug\Market_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Market_OOP\Market_OOP\bin\Debug\Market_OOP.exe.config
+C:\Users\Alex\source\repos\Market_OOP\Market_OOP\bin\Debug\Market_OOP.exe
+C:\Users\Alex\source\repos\Market_OOP\Market_OOP\bin\Debug\Market_OOP.pdb
+C:\Users\Alex\source\repos\Market_OOP\Market_OOP\obj\Debug\Market_OOP.exe
+C:\Users\Alex\source\repos\Market_OOP\Market_OOP\obj\Debug\Market_OOP.pdb
